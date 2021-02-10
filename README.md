@@ -1,2 +1,2 @@
 # 6502
-MOS6502 simulation in .NET 5
+MOS6502 simulation in .NET 5.0
